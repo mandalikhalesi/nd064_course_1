@@ -2,7 +2,7 @@ name: Docker Image Build and Push
 
 on: [push]
 #    branches: [master]
-#  pull_request:
+[pull_request]
 #    branches: [master]
 
 jobs:
